@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+<channel id="Telecinco.TV">
+<display-name>Telecinco.TV</display-name>
+</channel>
+
+<programme channel="Telecinco.TV" start="20240116060000 +0000" stop="20240116075500 +0000">
+<title>Informativos Telecinco matinal</title>
+<desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
+<date>20/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218432"/>
+<country>España</country>
+<episode-num>1</episode-num>
+</programme>
+
+
+<programme channel="Telecinco.TV" start="20240116075500 +0000" stop="20240116093000 +0000">
+<title>La mirada crítica: Episodio 11</title>
+<desc>Ana Terradillos y Antonio Teixeira se encargan de ofrecer, a primera hora de la mañana, lo más destacado de la actualidad política, económica y social en el panorama nacional e internacional.</desc>
+<date>22/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3227867"/>
+<country>España</country>
+<episode-num>1</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240116140000 +0000" stop="20240116143000 +0000">
+<title>Informativos Telecinco</title>
+<desc>Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
+<date>24/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218428"/>
+<country>España</country>
+<episode-num>1</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240116144000 +0000" stop="20240116144500 +0000">
+<title>El tiempo</title>
+<desc>Espacio informativo que ofrece la previsión meteorológica.</desc>
+<date>26/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1373654"/>
+<country>España</country>
+<episode-num>1</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240116200500 +0000" stop="20240116203500 +0000">
+<title>Informativos Telecinco</title>
+<desc>Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
+<date>28/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218430"/>
+<country>España</country>
+<episode-num>1</episode-num>
+</programme>
+
+
+<programme channel="Telecinco.TV" start="20240116204500 +0000" stop="20240116210000 +0000">
+<title>El tiempo</title>
+<desc>Espacio informativo que ofrece la previsión meteorológica.</desc>
+<date>02/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1373654"/>
+<country>España</country>
+<episode-num>2</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240117060000 +0000" stop="20240117075500 +0000">
+<title>Informativos Telecinco matinal</title>
+<desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
+<date>03/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218432"/>
+<country>España</country>
+<episode-num>2</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240117075500 +0000" stop="20240117093000 +0000">
+<title>La mirada crítica: Episodio 12</title>
+<desc>Ana Terradillos y Antonio Teixeira se encargan de ofrecer, a primera hora de la mañana, lo más destacado de la actualidad política, económica y social en el panorama nacional e internacional.</desc>
+<date>18/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3227875"/>
+<country>España</country>
+<episode-num>2</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240117140000 +0000" stop="20240117143000 +0000">
+<title>Informativos Telecinco</title>
+<desc>Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
+<date>16/01/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218428"/>
+<country>España</country>
+<episode-num>2</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240117143500 +0000" stop="20240117145000 +0000">
+<title>El tiempo</title>
+<desc>Espacio informativo que ofrece la previsión meteorológica.</desc>
+<date>14/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1373654"/>
+<country>España</country>
+<episode-num>3</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240117200500 +0000" stop="20240117203500 +0000">
+<title>Informativos Telecinco</title>
+<desc>Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
+<date>12/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218430"/>
+<country>España</country>
+<episode-num>2</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240117204500 +0000" stop="20240117210000 +0000">
+<title>El tiempo</title>
+<desc>Espacio informativo que ofrece la previsión meteorológica.</desc>
+<date>10/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1373654"/>
+<country>España</country>
+<episode-num>4</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240118060000 +0000" stop="20240118075500 +0000">
+<title>Informativos Telecinco matinal</title>
+<desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
+<date>08/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218432"/>
+<country>España</country>
+<episode-num>3</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240118075500 +0000" stop="20240118093000 +0000">
+<title>La mirada crítica</title>
+<desc>Ana Terradillos y Antonio Teixeira se encargan de ofrecer, a primera hora de la mañana, lo más destacado de la actualidad política, económica y social en el panorama nacional e internacional.</desc>
+<date>06/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3114625"/>
+<country>España</country>
+<episode-num>3</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240118140000 +0000" stop="20240118143000 +0000">
+<title>Informativos Telecinco</title>
+<desc>Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
+<date>04/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218428"/>
+<country>España</country>
+<episode-num>3</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240118144000 +0000" stop="20240118145000 +0000">
+<title>El tiempo</title>
+<desc>Espacio informativo que ofrece la previsión meteorológica.</desc>
+<date>04/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1373654"/>
+<country>España</country>
+<episode-num>5</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240118200500 +0000" stop="20240118203500 +0000">
+<title>Informativos Telecinco</title>
+<desc>Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
+<date>02/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P3218430"/>
+<country>España</country>
+<episode-num>3</episode-num>
+</programme>
+
+<programme channel="Telecinco.TV" start="20240118204500 +0000" stop="20240118210000 +0000">
+<title>El tiempo</title>
+<desc>Espacio informativo que ofrece la previsión meteorológica.</desc>
+<date>21/02/2024</date>
+<category>Informativo</category>
+<language>Español</language>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1373654"/>
+<country>España</country>
+<episode-num>6</episode-num>
+</programme>
+
+</tv>
